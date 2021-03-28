@@ -6,5 +6,6 @@ Notebooks:
 
 1. <https://www.kaggle.com/gomes555/tps-mar2021-lightgbm-hyperopt> 
 2. <https://www.kaggle.com/gomes555/tps-mar2021-tree-baselines-catboost-bayesopt>
+3. <https://www.kaggle.com/gomes555/tps-mar2021-lightgbm-optuna-opt-data-prep>
 
 
